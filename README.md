@@ -1,4 +1,6 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio 
+
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/AlencarMaria/portfolio/blob/main/portfolio-website.png)
 
